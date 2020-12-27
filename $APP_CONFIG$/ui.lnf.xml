@@ -1,5 +1,11 @@
 <application>
   <component name="UISettings">
+    <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="22" />
+    <option name="SHOW_ICONS_IN_MENUS" value="false" />
+    <option name="CONTRAST_SCROLLBARS" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="false" />
   </component>
 </application>

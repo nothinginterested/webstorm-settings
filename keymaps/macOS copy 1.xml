@@ -1,4 +1,4 @@
-<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
   <action id="ActivateCommitToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
@@ -9,7 +9,4 @@
   </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoProject" />
-  <action id="RunAnything">
-    <keyboard-shortcut first-keystroke="shift meta back_slash" />
-  </action>
 </keymap>
