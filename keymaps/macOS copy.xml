@@ -1,15 +1,10 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="ActivateCommitToolWindow">
-    <keyboard-shortcut first-keystroke="meta 2" />
-  </action>
-  <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateFindToolWindow" />
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="meta 3" />
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 0" />
   </action>
-  <action id="DuplicatesForm.SendToRight" />
-  <action id="FileChooser.GotoProject" />
-  <action id="RunAnything">
-    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="alt back_space" />
   </action>
+  <action id="EditorDeleteToWordStart" />
 </keymap>
