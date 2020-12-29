@@ -4,7 +4,7 @@
     <general />
     <debuggers>
       <debugger id="javascript">
-        <configuration watchReturnValues="true">
+        <configuration>
           <custom-object-presentation />
         </configuration>
       </debugger>
