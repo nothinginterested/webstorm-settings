@@ -9,5 +9,11 @@
   </action>
   <action id="CheckinProject" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
   <action id="FileChooser.GotoProject" />
 </keymap>
