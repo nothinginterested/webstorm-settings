@@ -513,12 +513,52 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.gql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.jsgraphql" />
+              <option name="myPluginName" value="JS GraphQL" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.gradle">
           <value>
             <plugin>
               <option name="myPluginId" value="org.intellij.groovy" />
               <option name="myPluginName" value="Groovy" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.graphql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.jsgraphql" />
+              <option name="myPluginName" value="JS GraphQL" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.graphqld">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.jsgraphql" />
+              <option name="myPluginName" value="JS GraphQL" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.graphqle">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.jsgraphql" />
+              <option name="myPluginName" value="JS GraphQL" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.graphqls">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.jsgraphql" />
+              <option name="myPluginName" value="JS GraphQL" />
             </plugin>
           </value>
         </entry>
@@ -1149,6 +1189,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pcss">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.postcss" />
+              <option name="myPluginName" value="PostCSS" />
             </plugin>
           </value>
         </entry>
