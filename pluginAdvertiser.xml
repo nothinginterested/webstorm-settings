@@ -538,6 +538,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.graphqlconfig">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.graphqld">
           <value>
             <plugin>
@@ -2774,6 +2783,11 @@
                   <entry key="native-android-gradle">
                     <value>
                       <FeaturePluginData displayName="Native-Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" />
+                    </value>
+                  </entry>
+                  <entry key="thrift">
+                    <value>
+                      <FeaturePluginData displayName="Thrift" pluginName="Thrift Support" pluginId="com.intellij.plugins.thrift" />
                     </value>
                   </entry>
                   <entry key="web">
