@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <removed_mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="base.css" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".babelrc " type="PLAIN_TEXT" />
