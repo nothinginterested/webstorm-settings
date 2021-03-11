@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="generator.js" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="base.css" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".babelrc " type="PLAIN_TEXT" />
@@ -9,12 +11,10 @@
       <mapping ext="js  " type="PLAIN_TEXT" />
       <mapping ext="mdx" type="PLAIN_TEXT" />
       <mapping pattern="NumberPadSection.tsx" type="TypeScript JSX" />
-      <mapping pattern="ArchiveConfiguration" type="Vue.js" />
-      <mapping pattern="Nav" type="Vue.js" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="ArchiveConfiguration" type="Vue.js" />
+      <mapping pattern="Nav" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
