@@ -1,0 +1,9 @@
+<application>
+  <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+  </component>
+</application>
