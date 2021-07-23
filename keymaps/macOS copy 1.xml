@@ -16,4 +16,7 @@
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
   <action id="FileChooser.GotoProject" />
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
 </keymap>
