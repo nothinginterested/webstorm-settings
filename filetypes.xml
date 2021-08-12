@@ -2,16 +2,16 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="generator.js" type="AUTO_DETECTED" />
-      <mapping pattern="base.css" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".babelrc " type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern="base.css" type="PLAIN_TEXT" />
       <mapping ext="js  " type="PLAIN_TEXT" />
       <mapping ext="mdx" type="PLAIN_TEXT" />
-      <mapping pattern="useCreateCustomForm" type="TypeScript JSX" />
       <mapping pattern="NumberPadSection.tsx" type="TypeScript JSX" />
-      <mapping pattern="ArchiveConfiguration" type="Vue.js" />
+      <mapping pattern="useCreateCustomForm" type="TypeScript JSX" />
       <mapping pattern="Nav" type="Vue.js" />
+      <mapping pattern="ArchiveConfiguration" type="Vue.js" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
