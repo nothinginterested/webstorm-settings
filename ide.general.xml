@@ -9,5 +9,6 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
+    <entry key="ide.experimental.ui.toolwindow.stripes" value="true" />
   </component>
 </application>
