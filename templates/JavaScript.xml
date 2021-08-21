@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="nextapi" value="const $NAME$: NextApiHandler = async (req, res) =&gt; {&#10;    $END$&#10;    res.setHeader('Content-Type', 'application/json; ');&#10;    res.statusCode = 200;&#10;    res.write('');&#10;    res.end();&#10;&#10;&#10;};&#10;&#10;export default $NAME$&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
