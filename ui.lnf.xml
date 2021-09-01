@@ -1,12 +1,12 @@
 <application>
   <component name="UISettings">
     <option name="compactTreeIndents" value="true" />
+    <option name="DISABLE_MNEMONICS" value="false" />
     <option name="EDITOR_AA_TYPE" value="Greyscale" />
-    <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="28" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="false" />
   </component>
