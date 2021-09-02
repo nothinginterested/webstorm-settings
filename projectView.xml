@@ -1,6 +1,8 @@
 <application>
   <component name="ProjectViewSharedSettings">
+    <option name="compactDirectories" value="true" />
     <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showMembers" value="true" />
   </component>
 </application>
