@@ -134,7 +134,17 @@
         </entry>
         <entry key="com.intellij.facetType">
           <value>
-            <FeaturePluginsList />
+            <FeaturePluginsList>
+              <option name="featureMap">
+                <map>
+                  <entry key="thrift">
+                    <value>
+                      <FeaturePluginData displayName="Thrift" pluginName="Thrift Support" pluginId="com.intellij.plugins.thrift" />
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </FeaturePluginsList>
           </value>
         </entry>
       </map>
