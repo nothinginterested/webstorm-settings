@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="generator.js" type="AUTO_DETECTED" />
       <mapping pattern="searchContent" type="AUTO_DETECTED" />
+      <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".babelrc " type="PLAIN_TEXT" />
