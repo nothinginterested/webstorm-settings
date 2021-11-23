@@ -2,7 +2,7 @@
   <component name="LightEdit">
     <option name="sessionFiles">
       <list>
-        <option value="file:///," />
+        <option value="file:///,." />
       </list>
     </option>
     <option name="supportedFilePatterns">
