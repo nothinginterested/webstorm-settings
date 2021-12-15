@@ -1,8 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="premium" value="true" />
+    <option name="contrastMode" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="4" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-68fffb92:1721861cca7:-8000" />
