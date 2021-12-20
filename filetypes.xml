@@ -12,6 +12,10 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".babelrc " type="PLAIN_TEXT" />
       <mapping pattern="base.css" type="PLAIN_TEXT" />
+      <mapping pattern=".env.developer" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".env.boe" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="js  " type="PLAIN_TEXT" />
       <mapping ext="thrift" type="PLAIN_TEXT" />
       <mapping ext="mdx" type="PLAIN_TEXT" />
