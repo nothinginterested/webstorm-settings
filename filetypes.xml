@@ -7,6 +7,7 @@
       <mapping pattern="useDocs.jsx" type="AUTO_DETECTED" />
       <mapping pattern="generator.js" type="AUTO_DETECTED" />
       <mapping pattern="tp-deposit.ts" type="AUTO_DETECTED" />
+      <mapping pattern="test1" type="AUTO_DETECTED" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
