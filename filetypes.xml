@@ -8,7 +8,6 @@
       <mapping pattern="generator.js" type="AUTO_DETECTED" />
       <mapping pattern="tp-deposit.ts" type="AUTO_DETECTED" />
       <mapping pattern="test1" type="AUTO_DETECTED" />
-      <removed_mapping ext="ng" type="HTML" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
@@ -27,6 +26,7 @@
       <mapping pattern="Nav" type="Vue.js" />
       <mapping pattern="ArchiveConfiguration" type="Vue.js" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
