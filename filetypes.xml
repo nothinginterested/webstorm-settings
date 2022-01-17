@@ -21,6 +21,7 @@
       <mapping ext="thrift" type="PLAIN_TEXT" />
       <mapping ext="mdx" type="PLAIN_TEXT" />
       <mapping pattern="demo2" type="TypeScript" />
+      <mapping pattern="hadNeverApplyCard.tsx" type="TypeScript" />
       <mapping pattern="NumberPadSection.tsx" type="TypeScript JSX" />
       <mapping pattern="useCreateCustomForm" type="TypeScript JSX" />
       <mapping pattern="Nav" type="Vue.js" />
