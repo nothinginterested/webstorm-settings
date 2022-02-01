@@ -24,13 +24,13 @@
       <mapping pattern="hadNeverApplyCard.tsx" type="TypeScript" />
       <mapping pattern="NumberPadSection.tsx" type="TypeScript JSX" />
       <mapping pattern="useCreateCustomForm" type="TypeScript JSX" />
-      <mapping pattern="Nav" type="Vue.js" />
-      <mapping pattern="ArchiveConfiguration" type="Vue.js" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="ArchiveConfiguration" type="Vue.js" />
+      <mapping pattern="Nav" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
