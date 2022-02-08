@@ -29,6 +29,7 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="thrift" approved="true" type="Thrift" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
