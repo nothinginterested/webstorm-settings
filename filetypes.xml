@@ -30,6 +30,7 @@
       <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="thrift" approved="true" type="Thrift" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
