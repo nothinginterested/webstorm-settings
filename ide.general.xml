@@ -9,6 +9,12 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
+    <entry key="ide.experimental.ui.animations" value="true" />
+    <entry key="ide.experimental.ui.editor.tabs" value="true" />
+    <entry key="ide.experimental.ui.inter.font" value="true" />
+    <entry key="ide.experimental.ui.main.toolbar" value="true" />
+    <entry key="ide.experimental.ui.tree.selection" value="true" />
+    <entry key="ide.experimental.ui.vcs.branch.popup" value="true" />
     <entry key="ide.experimental.ui" value="false" />
   </component>
 </application>
