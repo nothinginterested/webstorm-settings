@@ -4,7 +4,7 @@
     <property name="created">2021-01-19T20:39:51</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.1.0.0</property>
-    <property name="modified">2021-05-04T17:32:11</property>
+    <property name="modified">2022-06-14T15:06:34</property>
     <property name="originalScheme">Moonlight (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -38,26 +38,29 @@
     <option name="DOCUMENTATION_COLOR" value="222436" />
     <option name="DOC_COMMENT_GUIDE" value="444a73" />
     <option name="DOC_COMMENT_LINK" value="34d3fb" />
-    <option name="FILESTATUS_ADDED" value="7af8ca" />
-    <option name="FILESTATUS_COPIED" value="7af8ca" />
-    <option name="FILESTATUS_DELETED" value="ff5370" />
-    <option name="FILESTATUS_HIJACKED" value="4fd6be" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="ff5370" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7f85a3" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ffdb8e" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ffdb8e" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ffdb8e" />
-    <option name="FILESTATUS_MERGED" value="70b0ff" />
-    <option name="FILESTATUS_MODIFIED" value="4fd6be" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="baacff" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="baacff" />
-    <option name="FILESTATUS_RENAMED" value="4fd6be" />
-    <option name="FILESTATUS_SUPPRESSED" value="bcc4d6" />
-    <option name="FILESTATUS_SWITCHED" value="4fd6be" />
-    <option name="FILESTATUS_UNKNOWN" value="7af8ca" />
-    <option name="FILESTATUS_addedOutside" value="7af8ca" />
-    <option name="FILESTATUS_changelistConflict" value="ffdb8e" />
-    <option name="FILESTATUS_modifiedOutside" value="4fd6be" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_COPIED" value="c3e88d" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
+    <option name="FILESTATUS_MERGED" value="c792ea" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="ffcb6b" />
+    <option name="FILESTATUS_changelistConflict" value="fc9867" />
+    <option name="FILESTATUS_modifiedOutside" value="c792ea" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="222436" />
     <option name="GUTTER_BACKGROUND" value="222436" />
     <option name="INDENT_GUIDE" value="444a73" />
@@ -1308,7 +1311,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="444a73" />
@@ -2896,7 +2899,6 @@
         <option name="FOREGROUND" value="7af8ca" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="70b0ff" />
