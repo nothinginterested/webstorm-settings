@@ -1,36 +1,20 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="searchContent" type="AUTO_DETECTED" />
-      <mapping pattern="test" type="AUTO_DETECTED" />
-      <mapping pattern="1" type="AUTO_DETECTED" />
-      <mapping pattern="useDocs.jsx" type="AUTO_DETECTED" />
       <mapping pattern="generator.js" type="AUTO_DETECTED" />
-      <mapping pattern="tp-deposit.ts" type="AUTO_DETECTED" />
-      <mapping pattern="test1" type="AUTO_DETECTED" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern="base.css" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".babelrc " type="PLAIN_TEXT" />
-      <mapping pattern="base.css" type="PLAIN_TEXT" />
-      <mapping pattern=".env.developer" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern=".env.boe" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="js  " type="PLAIN_TEXT" />
-      <mapping ext="thrift" type="PLAIN_TEXT" />
       <mapping ext="mdx" type="PLAIN_TEXT" />
       <mapping pattern="demo2" type="TypeScript" />
-      <mapping pattern="hadNeverApplyCard.tsx" type="TypeScript" />
-      <mapping pattern="NumberPadSection.tsx" type="TypeScript JSX" />
       <mapping pattern="useCreateCustomForm" type="TypeScript JSX" />
-      <mapping pattern="Nav" type="Vue.js" />
+      <mapping pattern="NumberPadSection.tsx" type="TypeScript JSX" />
       <mapping pattern="ArchiveConfiguration" type="Vue.js" />
+      <mapping pattern="Nav" type="Vue.js" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="thrift" approved="true" type="Thrift" />
-      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
