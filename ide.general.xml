@@ -13,6 +13,7 @@
     <entry key="ide.experimental.ui.inter.font" value="true" />
     <entry key="ide.experimental.ui.main.toolbar" value="true" />
     <entry key="ide.experimental.ui.vcs.branch.popup" value="true" />
-    <entry key="ide.experimental.ui" value="false" />
+    <entry key="ide.experimental.ui" value="true" />
+    <entry key="debugger.new.tool.window.layout" value="true" />
   </component>
 </application>
