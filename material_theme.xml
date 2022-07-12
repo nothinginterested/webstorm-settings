@@ -1,13 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="contrastMode" value="true" />
-    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="useGlobalFont" value="true" />
-    <option name="settingsSelectedTab" value="4" />
-    <option name="accentColor" value="79cb60" />
-    <option name="selectedTheme" value="GITHUB" />
+    <option name="settingsSelectedTab" value="5" />
+    <option name="accentColor" value="00c6e0" />
+    <option name="selectedTheme" value="SKYBLUE" />
     <option name="userId" value="-68fffb92:1721861cca7:-8000" />
     <option name="version" value="7.6.2" />
   </component>
