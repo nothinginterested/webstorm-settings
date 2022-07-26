@@ -9,4 +9,10 @@
   </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoProject" />
+  <action id="NextSplitter" />
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="alt tab" />
+  </action>
+  <action id="Terminal.NextSplitter" />
 </keymap>
