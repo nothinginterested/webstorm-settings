@@ -3,9 +3,9 @@
     <option name="compactTreeIndents" value="true" />
     <option name="DISABLE_MNEMONICS" value="false" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
+    <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="28" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
